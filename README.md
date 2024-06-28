@@ -2,25 +2,32 @@
 
 # Projeto de Estudo: Aplicação Java CONTABANCARIA
 
-Este repositório contém um projeto de estudo desenvolvido como parte do curso de Java da Generation Brasil, no qual aplicamos os conceitos aprendidos na criação de um sistema bancário simples em Java.
+Este repositório contém um projeto de estudo desenvolvido como parte do curso de Java da Generation Brasil. O objetivo deste projeto é aplicar os conceitos aprendidos em Java para criar um sistema bancário simples, utilizando Programação Orientada a Objetos avançada, CRUD e tratamento de erros com Try/catch.
+
+## Funcionalidades
+
+O projeto inclui um menu interativo que permite realizar as seguintes operações:
+
+- Criar Conta
+- Listar todas as Contas
+- Buscar Conta por Número
+- Atualizar Dados da Conta
+- Apagar Conta
+- Realizar Saque
+- Realizar Depósito
+- Sair
+
+## Demonstração
+
+![Imagem do Projeto](https://ibb.co/ynVzZhZ)
 
 ## Sobre
 
-O projeto foi desenvolvido como parte do programa educacional da Generation Brasil, uma organização comprometida em capacitar jovens para carreiras em tecnologia. Nosso objetivo é proporcionar uma experiência prática e hands-on para os estudantes aplicarem os conceitos teóricos aprendidos em aula.
+Este projeto foi desenvolvido como parte do programa educacional da Generation Brasil, uma organização comprometida em capacitar jovens para carreiras em tecnologia. Ele oferece uma experiência prática e hands-on para os estudantes aplicarem os conceitos teóricos aprendidos em aula.
 
+## Desenvolvedor
 
+Este projeto foi desenvolvido por [Rosdrigo](https://www.linkedin.com/in/rosdrigo/)
 
-
-
-
-Projeto desenvolvido por: 
-
-https://www.linkedin.com/in/rosdrigo/
-
-```
-Generation Brasil - generation@generation.org
-github.com/conteudoGeneration
-```
-
----
+Para mais informações sobre a Generation Brasil, visite [generation.org](https://generation.org) 
 
