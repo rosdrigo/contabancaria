@@ -19,7 +19,7 @@ O projeto inclui um menu interativo que permite realizar as seguintes operaçõe
 
 ## Demonstração
 
-![Imagem do Projeto](https://ibb.co/ynVzZhZ)
+![Imagem do Projeto](https://i.ibb.co/rGvBzbz/Captura-de-tela-2024-06-28-135607.png )
 
 ## Sobre
 
